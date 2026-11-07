@@ -1,0 +1,7 @@
+[2026-11-07T01:27:04Z] === AST ITERATION 1 START | repo=litestar-org/advanced-alchemy-docs-preview sha=5f5be518 ===
+[2026-11-07T01:27:04Z] [iter=1] PHASE START: ast repo=litestar-org/advanced-alchemy-docs-preview sha=5f5be518
+[2026-11-07T01:27:04Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T01:27:04Z] [iter=1] AST chunks built count=1 triples=2093
+[2026-11-07T01:27:04Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/5f5be5187345e11f4591a4c32103fa7ee3637fa1/.complete
+[2026-11-07T01:27:04Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-11-07T01:27:04Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
