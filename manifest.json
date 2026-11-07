@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "litestar-org",
+  "repo": "advanced-alchemy-docs-preview",
+  "versions": [
+    {
+      "commit": "5f5be5187345e11f4591a4c32103fa7ee3637fa1",
+      "parsed_at": "2026-11-07T01:25:47.980018+00:00",
+      "filetree": "filetree/5f5be5187345e11f4591a4c32103fa7ee3637fa1.nq.gz",
+      "blobs": [
+        "blob/b1bdf40960e1246b63b8aa02c6aa5e8e5551783e.nq.gz",
+        "blob/68bc17f9ff2104a9d7b6777058bb4c343ca72609.nq.gz",
+        "blob/a7052bbc525b89b30dd43a7ab7d75d50ad97fc70.nq.gz",
+        "blob/02813e67a101ef920c9d907512e285f0c19f8ddd.nq.gz",
+        "blob/aff5b386a12f758f00f1946676c798be15904b8b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
